@@ -5,6 +5,7 @@
 desktop.ini
 thumbs.db
 addons_xml_generator2.py
+*.url
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -23,7 +24,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/
 lib64/
 parts/
 sdist/

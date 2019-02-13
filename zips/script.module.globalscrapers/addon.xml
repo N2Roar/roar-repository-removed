@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="script.module.globalscrapers" name="globalscrapers Module" version="4.1.1.02" provider-name="Solid_Snake">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
@@ -15,4 +14,3 @@
 		<broken>disable</broken>
 	</extension>
 </addon>
-</addons>
