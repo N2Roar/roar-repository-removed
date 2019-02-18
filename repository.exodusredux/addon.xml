@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.exodusredux" name="Exodus Redux Repo [COLOR red]UNINSTALL ME[/COLOR]" version="0.0.7.01" provider-name="I-A-C">
+	<extension point="xbmc.addon.repository" name="Exodus Redux Repo">
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description lang="en"></description>
+		<platform>all</platform>
+		<broken>disable</broken>
+	</extension>
+</addon>

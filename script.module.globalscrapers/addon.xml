@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.globalscrapers" name="globalscrapers Module" version="4.1.1.02" provider-name="Solid_Snake">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="script.module.beautifulsoup4"/>
-	</requires>
+<addon id="script.module.globalscrapers" name="globalscrapers Module [COLOR red]UNINSTALL ME[/COLOR]" version="4.1.1.02" provider-name="Solid_Snake">
 	<extension point="xbmc.python.module" library="lib" />
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-		<summary lang="en">globalscrapers Module</summary>
-		<description>globalscrapers Module</description>
+		<summary lang="en"></summary>
+		<description></description>
         <license>GPL</license>
 		<broken>disable</broken>
 	</extension>
