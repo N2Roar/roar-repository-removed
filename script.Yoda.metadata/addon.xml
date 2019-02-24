@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.Yoda.metadata" version="1.0.6.01" name="Yoda Metadata [COLOR red]UNINSTALL ME[/COLOR]" provider-name="S">
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<broken>disable</broken>
+	</extension>
+</addon>

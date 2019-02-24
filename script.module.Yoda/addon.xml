@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.Yoda" name="Yoda Module [COLOR red]UNINSTALL ME[/COLOR]" version="1.00.057.01" provider-name="S">
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<broken>disable</broken>
+	</extension>
+</addon>
