@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.13clowns" version="2.0.6.7.01" name="13Clowns Video [COLOR red]UNINSTALL ME[/COLOR]" provider-name="13Clowns">
+    <extension point="xbmc.python.pluginsource" library="clowns.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+	<broken>disable</broken>
+    </extension>
+</addon>
+
 <addon id="plugin.video.exodusredux" version="1.0.7.01" name="Exodus Redux [COLOR red]UNINSTALL ME[/COLOR]" provider-name="I-A-C">
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
@@ -45,6 +57,32 @@
 	</extension>
 </addon>
 
+<addon id="repository.kodibae" name="Kodi Bae Repository [COLOR red]UNINSTALL ME[/COLOR]" version="3.0.0.01" provider-name="kodibae">
+    <extension point="xbmc.addon.repository" name="Kodi Bae Repository">
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="script.13clowns.artwork" version="2.0.2.01" name="13Clowns Artwork [COLOR red]UNINSTALL ME[/COLOR]" provider-name="13Clowns">
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+	<broken>disable</broken>
+    </extension>
+</addon>
+
+<addon id="script.13clowns.metadata" version="2.0.1.01" name="13Clowns Metadata [COLOR red]UNINSTALL ME[/COLOR]" provider-name="13Clowns">
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+	<broken>disable</broken>
+    </extension>
+</addon>
+
 <addon id="script.exodusredux.artwork" version="1.0.2.01" name="Exodus Redux Artwork [COLOR red]UNINSTALL ME[/COLOR]" provider-name="I-A-C">
 	<extension point="xbmc.python.module" library="lib" />
 	<extension point="xbmc.addon.metadata">
@@ -63,6 +101,27 @@
 		<platform>all</platform>
 		<broken>disable</broken>
 	</extension>
+</addon>
+
+<addon id="script.module.13clowns" version="2.0.8.14.01" name="13Clowns Script.Module [COLOR red]UNINSTALL ME[/COLOR]" provider-name="13Clowns">
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+	<broken>disable</broken>
+    </extension>
+</addon>
+
+<addon id="script.module.civitasscrapers" name="Civitas Scrapers Module [COLOR red]UNINSTALL ME[/COLOR]" version="2.0.01" provider-name="CivitasAdmin">
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="lib/default.py">
+        <provides>executable</provides>
+    </extension>
+        <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<broken>disable</broken>
+    </extension>
 </addon>
 
 <addon id="script.module.exodusredux" name="Exodus Redux Module [COLOR red]UNINSTALL ME[/COLOR]" version="1.0.9.02" provider-name="I-A-C">

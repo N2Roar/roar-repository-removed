@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.13clowns" version="2.0.8.14.01" name="13Clowns Script.Module [COLOR red]UNINSTALL ME[/COLOR]" provider-name="13Clowns">
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+	<broken>disable</broken>
+    </extension>
+</addon>

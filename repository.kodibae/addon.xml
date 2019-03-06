@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.kodibae" name="Kodi Bae Repository [COLOR red]UNINSTALL ME[/COLOR]" version="3.0.0.01" provider-name="kodibae">
+    <extension point="xbmc.addon.repository" name="Kodi Bae Repository">
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+    </extension>
+</addon>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.civitasscrapers" name="Civitas Scrapers Module [COLOR red]UNINSTALL ME[/COLOR]" version="2.0.01" provider-name="CivitasAdmin">
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="lib/default.py">
+        <provides>executable</provides>
+    </extension>
+        <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<broken>disable</broken>
+    </extension>
+</addon>
