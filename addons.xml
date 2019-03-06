@@ -24,6 +24,16 @@
 	</extension>
 </addon>
 
+    <addon id="repository.13clowns" name="13Clowns Repo [COLOR red]UNINSTALL ME[/COLOR]" version="3.0.0.01" provider-name="13Clowns">
+        <extension point="xbmc.addon.repository" name="13Clowns Repo">
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <platform>all</platform>
+            <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		    <broken>disable</broken>
+        </extension>
+    </addon>
+
 <addon id="repository.exodusredux" name="Exodus Redux Repo [COLOR red]UNINSTALL ME[/COLOR]" version="0.0.7.01" provider-name="I-A-C">
 	<extension point="xbmc.addon.repository" name="Exodus Redux Repo">
 	</extension>
