@@ -27,6 +27,16 @@
 	</extension>
 </addon>
 
+<addon id="plugin.video.masteraniredux" name="Masterani Redux [COLOR red]UNINSTALL ME[/COLOR]" version="1.2.2.01" provider-name="Wilson Magic">
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+		<broken>website shutdown</broken>
+    </extension>
+</addon>
+
 <addon id="plugin.video.Yoda" version="1.2.2.01" name="Yoda [COLOR red]UNINSTALL ME[/COLOR]" provider-name="S">
 	<extension point="xbmc.python.pluginsource" library="Yoda.py">
 	</extension>
