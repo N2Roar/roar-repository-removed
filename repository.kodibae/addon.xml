@@ -4,5 +4,6 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
+		<broken>disable</broken>
     </extension>
 </addon>
