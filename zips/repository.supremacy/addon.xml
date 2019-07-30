@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.supremacy" name="supremacy repo [COLOR red]UNINSTALL ME[/COLOR]" version="1.2.01" provider-name="supremacy">
+<extension point="xbmc.addon.repository" name="supremacy">
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<broken>disable</broken>
+	</extension>
+</addon>
+
