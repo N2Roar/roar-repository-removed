@@ -2,8 +2,6 @@
 <addon id="script.exodusredux.metadata" version="1.0.2.01" name="Exodus Redux Metadata [COLOR red]UNINSTALL ME[/COLOR]" provider-name="I-A-C">
 	<extension point="xbmc.python.module" library="lib" />
 	<extension point="xbmc.addon.metadata">
-		<summary></summary>
-		<description></description>
 		<platform>all</platform>
 		<broken>disable</broken>
 	</extension>
