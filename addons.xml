@@ -12,6 +12,16 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.ctoonkodi" name="CTOON Kodi [COLOR red]UNINSTALL ME[/COLOR]" version="0.4.3.01" provider-name="doko, mkody, Tikipeter">
+    <extension point="xbmc.python.pluginsource" library="Main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+		<broken>disable</broken>
+    </extension>
+</addon>
+
 <addon id="plugin.video.exodusredux" version="2.0.3a.01" name="Exodus Redux [COLOR red]UNINSTALL ME[/COLOR]" provider-name="I-A-C">
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
